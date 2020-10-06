@@ -7,7 +7,7 @@ const balance = (state = 0, action) =>{
             return action.balance
         ;
         default:
-            return balance
+            return state;
         ;
         
     }
