@@ -13,6 +13,7 @@ exports[`App renders properly 1`] = `
     Powered by 
     <a
       href="https://www.coindesk.com/price"
+      rel="noopener noreferrer"
       target="_blank"
     >
       Coindesk
