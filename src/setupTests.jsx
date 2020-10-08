@@ -14,10 +14,10 @@ import toJson from 'enzyme-to-json';
 Enzyme.configure({ adapter: new Adapter() });
 
 // Make Enzyme functions available in all test files without importing
-global.shallow = shallow;
-global.render = render;
-global.mount = mount;
-global.toJson = toJson;
+// global.shallow = shallow;
+// global.render = render;
+// global.mount = mount;
+// global.toJson = toJson;
 
 // Fail tests on any warning
 // commenting this code out generates more user friendly warnings
