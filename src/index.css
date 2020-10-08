@@ -1,0 +1,25 @@
+body{
+    background-image: url('./assets/c83e1a0b4495d80782f0ca04dd9ebf285a-USD-printing.rsquare.w700.jpg');
+    text-align: center;
+    color: floralwhite;
+    padding: 5%;
+    font-size: 18px;
+}
+
+button {
+    margin-left: 5px;
+}
+
+button, input {
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
